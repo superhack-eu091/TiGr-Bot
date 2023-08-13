@@ -64,7 +64,7 @@ For an indepth description of the logic flow see [https://github.com/superhack-e
 
 🏗️ TODO VIDEO
 
-🏗️ TODO SCREENSHOTS
+![TelegramBotTiGr](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/83315a04-a7fc-49e2-ba3c-3e8cde852075)
 
 ### Demo of contract interactions
 
