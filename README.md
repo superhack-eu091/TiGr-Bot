@@ -38,6 +38,11 @@ For an indepth description of the logic flow see [https://github.com/superhack-e
 
 🏗️ TODO SCREENSHOTS
 
+### Demo of contract interactions
+
+![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/a5e75e8a-5cf1-4821-8a61-7a9bb8a79e4c)
+Found in smart contract repo : https://github.com/superhack-eu091/SafeDelegatedProxy/tree/main#demo
+
 ## Hackathon codebase
 
 * Telegram bot https://github.com/superhack-eu091/tigr-bot-interface
