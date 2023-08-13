@@ -56,15 +56,20 @@ This is the problem TiGr solves.
 
 #### The Solution 
 
-🏗️ TODO How TiGr bot solves the problem highlevel
+Using Account Abstraction via a SAFE smart contract wallet module extension we have created a system where a Telegram bot needs only to be granted allowances to perform actions on the user's behalf like swapping tokens or interacting with defi contracts. We have built an NFT trading bot that allows the user to trade NFTs. When the user connects their wallet to the bot (done simply by pasting their ENS or Safe wallet address) they can set conditions on anything the bot can do on their behalf.
+
+For example, a user can give access to the Bot to buy a specific NFT from a certain marketplace, but restrict the maximum amount the Bot can take in exchange. When this is triggered by the bot the swap of funds for the NFT is performed atomically further eliminating any trust the user needs to place in the Telegram bot. The same holds true for selling NFTs.
+
+The way this works is we have created a Safe Delegate module that connects to a user's SAFE smart contract wallet. Interactions between tokens and NFTs are driven by this flow with the user using a front end to select what they want to buy and sell and for how much which will set the allowances. Once these allowances are set, they can use the Telegram bot to execute the buying or selling of NFTs directly without any further wallet interaction and no additional trust assumptions or access to funds.
+
+![Flows](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/259900a7-083f-4aab-ace7-1a4931202cd5)
 
 For an indepth description of the logic flow see [https://github.com/superhack-eu091/SafeDelegatedProxy](https://github.com/superhack-eu091/SafeDelegatedProxy#logic-flow-for-telegram-bot--safe-smart-contract-wallet-interactions).
 
 ## Media
-
-🏗️ TODO VIDEO
-
 ![TelegramBotTiGr](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/83315a04-a7fc-49e2-ba3c-3e8cde852075)
+
+See https://ethglobal.com/showcase/in-tgr-j0imz for more screenshots and videos.
 
 ### Demo of contract interactions
 
