@@ -22,7 +22,7 @@ So while these TG bots seem to look great at the moment, they are built on a hou
 
 This is the problem we aim to solve.
 
-![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/6d8588b8-424a-40a5-ae16-53919823069f)
+![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/SafeDelegatedProxy/raw/main/TiGr%20Bot%20narrated.mp4)
 
 ## Problem solved by project
 
