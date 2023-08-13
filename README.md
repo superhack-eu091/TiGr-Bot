@@ -14,11 +14,13 @@ This project was build for the ETH Global SuperHack virtual Hackathon.
 
 #### What's the problem with Telegram bots now?
 
-Telegram bots require users to deposit funds into wallets the bots create for them.
+Telegram bots require users to deposit funds into wallets the bots create for them. For example, this is the welcome message from the most popular Telegram bot UNIBOT. It generates wallets for each new user that it controls and requires funds to be moved in to them.
 
 ![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/0be047ff-dd1f-4ed1-9d3c-b5257d4cdb0b)
 
 When users send funds to addresses controlled by bots they give up all ability to control these funds and leave Defi for a CEX like experience with closed source bots controlling their funds.
+
+![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/abf5d1d7-0fe3-4f25-8b7e-a43cc9ae57c5)
 
 Not your keys not your crypto - the Telegram experience of interacting with funds is great, the security trade offs are not
 
