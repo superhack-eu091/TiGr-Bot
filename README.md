@@ -1,12 +1,38 @@
 # TiGr-Bot
 
-An NFT focused Telegram bot that uses Account Abstraction to remove all trust from the Telegram bot.
+Pronounced : tiger 🐅
 
-🏗️ TODO what TiGr bot does
+A telegram bot that uses Account Abstraction to  provide a true Defi experience for Telegram bot users through self sovereign verifiable interactions.
 
-Tiger Bot is a telegram bot that simplifies buying and selling NFTs. The bot allows any user with a telegram account to buy and sell NFTs without ever having to leave the TG. 
+This project was build for the ETH Global SuperHack virtual Hackathon.
 
-### The Problem 
+## Overview
+
+![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/151c19bb-3c23-42e3-be88-65afdf6ef6f4)
+
+### tl;dr
+
+#### What's the problem with Telegram bots now?
+
+Telegram bots require users to deposit funds into wallets the bots create for them.
+
+When users send funds to addresses controlled by bots they give up all ability to control these funds and leave Defi for a CEX like experience with closed source bots controlling their funds.
+
+Not your keys not your crypto - the Telegram experience of interacting with funds is great, the security trade offs are not
+
+#### How does TiGr bot solve this?
+
+TiGr is a bot that gives users the same UX as any other Telegram bot, but doesn't require the user to send any funds to addresses controlled by the bot. The TiGr bot will work with any Safe smart contract wallet a user already has on any chain and allows the user to keep control of their funds and explicitly define how the bot can use them.
+
+No more will a bot have access to all funds and NFTs - with TiGr bot and the delegate smart contract Safe module, users can specify which NFTs they are happy to buy and sell and exactly the maximum price they are prepared to buy for, or the minimum they expect to get when they sell.
+
+Awesome Telegram UX + security and flexibility of a SAFE smart contract wallet
+
+### In detail
+
+TiGr is an NFT focused Telegram bot that uses Account Abstraction to remove all trust from Telegram and provide a true Defi experience through self sovereign verifyable actions.
+
+#### The Problem 
 
 Crypto UX has been a major stumbling block for mass adoption. There are 2 applications whose UX has catapulted them into the top 20 dapps by fees on Ethereum- Maestro and Unibot. These 2 TG bots pioneered the telegram sniper bot, making sniping tokens/copy trading on DEX’s all achievable within tg itself. 
 
@@ -20,15 +46,11 @@ While centralized custodians like coinbase are heavily regulated, it would be di
 
 So while these TG bots seem to look great at the moment, they are built on a house of cards, and on the fragility of Trust. 
 
-This is the problem we aim to solve.
+This is the problem TiGr solves.
 
-![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/SafeDelegatedProxy/raw/main/TiGr%20Bot%20narrated.mp4)
+#### The Solution 
 
-## Problem solved by project
-
-🏗️ TODO Problem
-
-🏗️ TODO How TiGr bot solves the problem
+🏗️ TODO How TiGr bot solves the problem highlevel
 
 For an indepth description of the logic flow see [https://github.com/superhack-eu091/SafeDelegatedProxy](https://github.com/superhack-eu091/SafeDelegatedProxy#logic-flow-for-telegram-bot--safe-smart-contract-wallet-interactions).
 
@@ -41,7 +63,8 @@ For an indepth description of the logic flow see [https://github.com/superhack-e
 ### Demo of contract interactions
 
 ![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/a5e75e8a-5cf1-4821-8a61-7a9bb8a79e4c)
-Found in smart contract repo : https://github.com/superhack-eu091/SafeDelegatedProxy/tree/main#demo
+
+Found in [smart contract repo](https://github.com/superhack-eu091/SafeDelegatedProxy/raw/main/TiGr%20Bot%20narrated.mp4)
 
 ## Hackathon codebase
 
