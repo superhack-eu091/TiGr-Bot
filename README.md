@@ -2,15 +2,26 @@
 
 An NFT focused Telegram bot that uses Account Abstraction to remove all trust from the Telegram bot.
 
+🏗️ TODO what TiGr bot does
+
 ![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/6d8588b8-424a-40a5-ae16-53919823069f)
 
-TODO Problem
-TODO How TiGr bot solves the problem
+## Problem solved by project
 
-TODO what TiGr bot does
+🏗️ TODO Problem
 
-TODO videos and screenshots
-TODO Links to repos for code
+🏗️ TODO How TiGr bot solves the problem
+
+## Media
+
+🏗️ TODO VIDEO
+
+🏗️ TODO SCREENSHOTS
+
+## Hackathon codebase
+
+* Telegram bot https://github.com/superhack-eu091/tigr-bot-interface
+* Safe delegated ERC721 Proxy and other smart contracts https://github.com/superhack-eu091/SafeDelegatedProxy
 
 ## Deployed Contracts
 
@@ -32,5 +43,10 @@ Full listing of all contracts in https://github.com/superhack-eu091/tigr-bot-int
 * safeDelegateProxy https://testnet.explorer.zora.energy/address/0x01550034cAEC5e97B6980294319eb6d02cc8A25D
 * mockMarket https://testnet.explorer.zora.energy/address/0x583F14CE08a95D30E681a5848CC6835992D0386B
 
-TODO Links to deployed contracts
-TODO team
+## Team
+
+* Vishwa Naik
+* Konrad Strachan https://github.com/konradstrachan
+* David Perez Negron https://github.com/P1R
+* Jason Garcia https://github.com/jasonjgarcia24
+* Sarat Angajala https://github.com/SaratAngajalaoffl
