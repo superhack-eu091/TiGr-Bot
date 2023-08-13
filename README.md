@@ -2,9 +2,11 @@
 
 Pronounced : tiger 🐅
 
-A telegram bot that uses Account Abstraction to  provide a true Defi experience for Telegram bot users through self sovereign verifiable interactions.
+A bot that uses Account Abstraction to provide a true Defi experience buying and selling NFTs via Telegram without any additional trust assumptions or loss of control over funds or NFTs.
 
 This project was build for the ETH Global SuperHack virtual Hackathon.
+
+![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/55d354fa-fb92-4519-b169-c98c63f70bd6)
 
 ## Overview
 
