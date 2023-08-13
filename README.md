@@ -10,7 +10,7 @@ This project was build for the ETH Global SuperHack virtual Hackathon.
 
 ## Overview
 
-![8-zEO91d7rVxDcjL9](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/151c19bb-3c23-42e3-be88-65afdf6ef6f4)
+![tg without the trust](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/4b6022ac-5d0d-45ac-a00e-3242b2e84ce4)
 
 ### tl;dr
 
