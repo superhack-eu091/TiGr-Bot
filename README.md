@@ -12,6 +12,8 @@ An NFT focused Telegram bot that uses Account Abstraction to remove all trust fr
 
 🏗️ TODO How TiGr bot solves the problem
 
+For an indepth description of the logic flow see https://github.com/superhack-eu091/SafeDelegatedProxy.
+
 ## Media
 
 🏗️ TODO VIDEO
