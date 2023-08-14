@@ -2,6 +2,8 @@
 
 Pronounced : tiger 🐅
 
+Link to hosted bot : @intgr_nft_bot
+
 A bot that uses Account Abstraction to provide a true Defi experience buying and selling NFTs via Telegram without any additional trust assumptions or loss of control over funds or NFTs.
 
 This project was build for the ETH Global SuperHack virtual Hackathon.
@@ -79,8 +81,8 @@ Found in [smart contract repo](https://github.com/superhack-eu091/SafeDelegatedP
 
 ## Hackathon codebase
 
-* Telegram bot https://github.com/superhack-eu091/tigr-bot-interface
-* Safe delegated ERC721 Proxy and other smart contracts https://github.com/superhack-eu091/SafeDelegatedProxy
+* [Telegram bot](https://github.com/superhack-eu091/intgr-wallet-bot)
+* [Safe delegated ERC721 Proxy and other smart contracts](https://github.com/superhack-eu091/SafeDelegatedProxy)
 
 ## Deployed Contracts
 
